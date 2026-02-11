@@ -20,3 +20,4 @@ select
     CREATED_AT
 from
     {{ref('bronze_listings')}}
+    

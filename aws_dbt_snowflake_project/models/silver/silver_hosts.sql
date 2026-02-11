@@ -20,3 +20,4 @@ select
     created_at
 from 
     {{ref('bronze_hosts')}}
+    
